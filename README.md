@@ -44,6 +44,7 @@ npm run lint
 
 ![Large Screen](./public/results/largescreen.png)
 
+
 ### Translate and CountDown Screen
 
 ![Translate and Header Screen](./public/results/header.png)
@@ -64,3 +65,4 @@ npm run lint
 ### Responsive Small Screen
 
 ![Responsive](./public/results/responsive.png)
+
