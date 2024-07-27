@@ -20,7 +20,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-## Create .env file like .env.example
+### Create .env file like .env.example
 
 ### Compile and Hot-Reload for Development
 
@@ -39,3 +39,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Large Screen
+
+![Large Screen](./public/largescreeb.png)
