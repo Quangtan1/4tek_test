@@ -43,3 +43,26 @@ npm run lint
 ### Large Screen
 
 ![Large Screen](./public/results/largescreen.png)
+
+
+### Translate and CountDown Screen
+
+![Translate and Header Screen](./public/results/header.png)
+![Translate and Header Scree](./public/results/introview.png)
+
+### The scroll button points up when scrolling down, and when clicked, it scrolls up
+
+![scroll button](./public/results/aboutview.png)
+
+### Animation (Run project to see)
+
+![scroll button](./public/results/animationview.png)
+
+### Menu Bar Small Screen
+
+![Menu Bar](./public/results/menubar_small_screen.png)
+
+### Responsive Small Screen
+
+![Responsive](./public/results/responsive.png)
+
