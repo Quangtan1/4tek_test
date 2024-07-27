@@ -1,5 +1,5 @@
 <template>
-  <div class="flex gap-6 items-center">
+  <div class="flex gap-6 items-center justify-start w-full">
     <div class="h-full">
       <div class="p-4 rounded-full bg-[#E3FCFF]">
         <slot name="icon"></slot>

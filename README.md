@@ -42,7 +42,7 @@ npm run lint
 
 ### Large Screen
 
-![Large Screen](./public/results/largescreen.png)
+![Large Screen](./public/results/large_screen.png)
 
 ### Translate and CountDown Screen
 
