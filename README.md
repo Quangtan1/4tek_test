@@ -42,4 +42,4 @@ npm run lint
 
 ### Large Screen
 
-![Large Screen](./public/largescreeb.png)
+![Large Screen](./public/results/largescreeb.png)
