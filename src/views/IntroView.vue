@@ -57,17 +57,17 @@ onUnmounted(() => {
           <span class="font-semibold">{{ $t('intro.day') }}</span>
         </div>
         <span class="text-4xl pb-6">:</span>
-        <div>
+        <div class="text-center">
           <p class="text-5xl font-bold">{{ hour }}</p>
           <span class="font-semibold">{{ $t('intro.hour') }}</span>
         </div>
         <span class="text-4xl pb-6">:</span>
-        <div>
+        <div class="text-center">
           <p class="text-5xl font-bold">{{ minute }}</p>
           <span class="font-semibold">{{ $t('intro.minute') }}</span>
         </div>
         <span class="text-4xl pb-6">:</span>
-        <div>
+        <div class="text-center">
           <p class="text-5xl font-bold">{{ second }}</p>
           <span class="font-semibold">{{ $t('intro.second') }}</span>
         </div>
